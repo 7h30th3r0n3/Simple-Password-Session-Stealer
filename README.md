@@ -1,5 +1,5 @@
 # Simple-Password-Session-Stealer
-a simple fake linux password ask that output credential in a file
+a simple fake french linux password ask that output credential in a file
 
 
 usage : 
